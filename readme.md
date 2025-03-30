@@ -2,7 +2,7 @@
 
 ## Usage CSS
 
-Install dependencies
+Install Dependencies
 
 ```
 npm install
