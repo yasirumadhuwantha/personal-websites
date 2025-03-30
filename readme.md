@@ -1,13 +1,11 @@
-# Clipboard Website
+# Personal Websites
 
-Clipboard landing page from my Tailwind course and from [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9)
-
-## Usage
+## Usage CSS
 
 Install dependencies
 
 ```
-npm Install
+npm install
 ```
 
 Run Tailwind CLI
@@ -15,5 +13,3 @@ Run Tailwind CLI
 ```
 npm run watch
 ```
-
-![Alt text](images/clipboard.png)
