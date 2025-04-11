@@ -24,3 +24,5 @@ https://yasirumadhuwantha.github.io/personal-websites/loopstudios/index.html
 https://yasirumadhuwantha.github.io/personal-websites/shortly/index.html
 ### Testimonial Grid :
 https://yasirumadhuwantha.github.io/personal-websites/testimonial-grid/index.html
+### Fylo :
+https://yasirumadhuwantha.github.io/personal-websites/fylo/index.html
