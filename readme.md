@@ -26,3 +26,5 @@ https://yasirumadhuwantha.github.io/personal-websites/shortly/index.html
 https://yasirumadhuwantha.github.io/personal-websites/testimonial-grid/index.html
 ### Fylo :
 https://yasirumadhuwantha.github.io/personal-websites/fylo/index.html
+### Simple Bookmark Manager :
+https://yasirumadhuwantha.github.io/personal-websites/bookmark/index.html
